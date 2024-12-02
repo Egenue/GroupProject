@@ -57,7 +57,6 @@ img {
 
 .all {
     height: fit-content;
-    display: -moz-stack;
 }
 
 footer {
