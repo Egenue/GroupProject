@@ -15,11 +15,6 @@ nav a:hover{
 }
 
 .blog {
-<<<<<<< HEAD
-=======
-    /* text-indent: 20px; */
-    /* width: 600px; */
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
     padding-left: 20px;
     margin-left: 50px;
     text-align: justify;
@@ -30,13 +25,7 @@ body {
     background: linear-gradient(to right, rgba(32, 38, 237, 0.5), rgba(83, 50, 136, 0.5));
     background-image: url(/IMAGES/moroccan-flower.png);
     background-size: cover;
-<<<<<<< HEAD
     background-position: center;
-=======
-    /* Ensures the image covers the whole body */
-    background-position: center;
-    /* Centers the image */
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
 }
 
 h2 {
@@ -44,17 +33,7 @@ h2 {
 }
 
 h3 {
-<<<<<<< HEAD
-=======
-    /* text-align: center; */
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
-    margin-left: 20px;
-}
-
-h1 {
     text-align: center;
-    color: rgb(3, 75, 75);
-    text-shadow: 5px 5px 6px rgba(0, 0, 0, 0.3);
 }
 
 nav a {

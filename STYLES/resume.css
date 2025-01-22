@@ -2,20 +2,6 @@ body {
     background-color: rgba(15, 16, 59, 0.525);
 }
 
-<<<<<<< HEAD
-=======
-/* nav {
-    display: block;
-    border-radius: 20px;
-    background-color: aliceblue;
-    color: rgb(14, 67, 113);
-    box-shadow: 2px 2px 10px 4px rgba(41, 40, 40, 0.662);
-    width: 400px;
-    text-align: center;
-    margin-bottom: 20px;
-} */
-
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
 nav a {
     text-decoration: none;
     padding: 10px 20px;
@@ -35,30 +21,17 @@ nav a:hover{
 .person {
     font-size: small;
     text-align: center;
-<<<<<<< HEAD
-=======
-    /* border: 1px solid rgb(179, 108, 15); */
-    box-shadow: 6px 6px 10px 6px rgba(0, 0, 0, 0.662);
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
     width: 400px;
     height: 300px;
     margin-right: 20px;
     margin-left: 10px;
     border-radius: 20px;
-<<<<<<< HEAD
     background-color: rgba(59, 177, 255, 0.333);
 }
 
 .person:hover {
     background-color: rgba(118, 191, 244, 0.42);
     box-shadow: 6px 6px 10px 6px rgba(0, 0, 0, 0.662);
-=======
-    background-color: rgba(255, 255, 255, 0.737);
-}
-
-.person:hover {
-    background-color: rgba(208, 101, 101, 0.737);
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
 }
 
 img {
@@ -77,24 +50,17 @@ img {
 
 .members2 {
     height: fit-content;
-<<<<<<< HEAD
     display:inline;
     margin: 50%;
-=======
-    display: flex;
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
     align-items: center;
     margin-bottom: 20px;
 }
 
-<<<<<<< HEAD
 #person_2{
     display: flexbox;
     margin-left: 35%;
 }
 
-=======
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
 footer {
     text-align: center;
 }
@@ -104,10 +70,6 @@ h2 {
 }
 
 h3 {
-<<<<<<< HEAD
-=======
-    /* text-align: center; */
->>>>>>> 2fce54b85ddde7f1bcc059c62cb6ba2d6f996006
     margin-left: 20px;
 }
 
