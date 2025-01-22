@@ -26,11 +26,11 @@ nav a:hover{
     margin-right: 20px;
     margin-left: 10px;
     border-radius: 20px;
-    background-color: rgba(211, 245, 254, 0.737);
+    background-color: rgba(59, 177, 255, 0.333);
 }
 
 .person:hover {
-    background-color: rgba(180, 224, 255, 0.2);
+    background-color: rgba(118, 191, 244, 0.42);
     box-shadow: 6px 6px 10px 6px rgba(0, 0, 0, 0.662);
 }
 
@@ -70,7 +70,6 @@ h2 {
 }
 
 h3 {
-    /* text-align: center; */
     margin-left: 20px;
 }
 
